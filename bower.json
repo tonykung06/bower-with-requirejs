@@ -1,0 +1,22 @@
+{
+  "name": "bower-with-requirejs",
+  "homepage": "https://github.com/tonykung06/bower-with-requirejs",
+  "authors": [
+    "tonykung <tonykung06@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.13.0",
+    "jquery": "^2.2.3",
+    "camelize": "https://github.com/substack/camelize.git"
+  }
+}
